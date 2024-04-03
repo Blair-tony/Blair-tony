@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=BLAIR+TONY)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=900&size=30&pause=1000&random=false&width=435&lines=BLAIR+TONY)](https://git.io/typing-svg)
 
 
 
