@@ -1,6 +1,6 @@
 # Blair Tony - Python Full Stack Developer
 
-![Django](https://images.app.goo.gl/WtSCjTfjRgv3pwuv6) ![Python](images/python_logo.png) ![Computer](images/computer_logo.png)
+![Django](68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966) ![Python](images/python_logo.png) ![Computer](images/computer_logo.png)
 
 ---
 
