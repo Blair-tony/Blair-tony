@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=BLAIR+TONY)](https://git.io/typing-svg)
 
-![Django](68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966) ![Python](images/python_logo.png) ![Computer](images/computer_logo.png)
+
 
 ---
 
