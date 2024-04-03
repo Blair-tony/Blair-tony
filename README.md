@@ -55,15 +55,3 @@ I'm Blair Tony, an enthusiastic engineer and self-starter, capable of utilizing 
 **Country:** India  
 [Website](https://ipcsautomation.com/)
 
----
-
-## Projects
-
-- **Moving Object Detection and Tracking with Notifications via Web App**
-- **Grocery Webpage Using HTML, CSS, JavaScript**
-  - [GitHub Link](https://github.com/Blair-tony/GroCo)
-- **Hospital Management Web App with Django**
-  - [Web App Link](https://blairtony.pythonanywhere.com/)
-
----
-
