@@ -9,8 +9,6 @@
 - **Nationality:** Indian
 - **Date of Birth:** 23/04/1997
 - **Email:** blairtony32@gmail.com
-- **Phone:** (+91) 9656139683
-- **Home:** Chiramel House M G Nagar Chembukavu, 680020 THRISSUR (India)
 
 I'm Blair Tony, an enthusiastic engineer and self-starter, capable of utilizing technical skills for organizational improvement. With a strong background in Project Management, Networking, System Administration, and proficiency in programming languages like Python, I strive to contribute effectively to the technology landscape.
 
